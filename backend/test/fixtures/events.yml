@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  starttime: 2021-11-28 14:05:27
+  endtime: 2021-11-28 14:05:27
+  description: MyText
+  rsvp: MyString
+  allday: false
+  user: one
+
+two:
+  title: MyString
+  starttime: 2021-11-28 14:05:27
+  endtime: 2021-11-28 14:05:27
+  description: MyText
+  rsvp: MyString
+  allday: false
+  user: two
